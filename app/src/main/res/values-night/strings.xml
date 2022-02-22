@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launch_btn_txt">Launch App</string>
+    <string name="suns_tip_time_header">Suns tip time</string>
+    <string name="sub_total_txt">Sub Total</string>
+    <string name="number_of_people_txt">Buddies</string>
+    <string name="enter_bill_amount_hint">Enter bill Amount</string>
+    <string name="calculate_the_tip_header">Calculate the tip</string>
+    <string name="enter_a_bill_amount">Enter a bill amount</string>
+    <string name="how_many_people">How many people?</string>
+    <string name="calculate_txt">Calculate</string>
+    <string name="percentage_display">24</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="sub_total_data">Sub Total %s</string>
+    <string name="tip_amount_label">Tip Amount:</string>
+    <string name="tip_data_displayed">$s</string>
+    <string name="bill_amount_label">Bill Amount</string>
+    <string name="bill_amount_data">TextView</string>
+    <string name="number_of_people_label">Number of People</string>
+    <string name="number_of_ppl_data">$s</string>
+    <string name="grand_total">Grand Total: $s</string>
+    <string name="new_order">New Order</string>
+    <string name="result_header">Result Header</string>
+    <string name="your_cost">Your Cost:</string>
+</resources>
